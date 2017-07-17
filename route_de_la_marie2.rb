@@ -45,5 +45,4 @@ def get_all_the_urls_of_val_doise_townhalls(url)
     end
 end
 
-#rappel de la méthode pour créer l'affichage
 get_all_the_urls_of_val_doise_townhalls("http://annuaire-des-mairies.com/val-d-oise.html")
